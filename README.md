@@ -1,5 +1,5 @@
 # CAT_Project_JeffersKiprotich.
-<img src="KCC Logo.png" width="400" height="122" alt ="Kevin Cookie Company Logo">
+
 <h1>Kevin Cookie Company</h1>
 <section>
          <h2>Deliciousness in every bite!</h2>
